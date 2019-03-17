@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1552139034 "Emerson.tex" "Emerson.pdf" "Emerson" 1552139034
+["pdflatex"] 1552800476 "Emerson.tex" "Emerson.pdf" "Emerson" 1552800478
   "/etc/texmf/web2c/texmf.cnf" 1551803446 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1480098701 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -35,7 +35,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1551803458 724917 dfb7de0cbcb11358977b42350179e763 ""
   "Emerson.aux" 0 -1 0 ""
-  "Emerson.tex" 1552113071 16300 3e529089b629ab5b9430e4f1853c5d59 ""
+  "Emerson.tex" 1552800475 27099 ffb3f3f10a53c6585f57727aee63f73e ""
   "setspace.sty" 0 -1 0 ""
   (generated)
   "Emerson.aux"
