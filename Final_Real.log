@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  18 APR 2019 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  18 APR 2019 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Nonconformity-and-Self-Invention.tex
-(./Nonconformity-and-Self-Invention.tex
+**Final_Real.tex
+(./Final_Real.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -170,21 +170,21 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./Nonconformity-and-Self-Invention.aux)
-\openout1 = `Nonconformity-and-Self-Invention.aux'.
+(./Final_Real.aux)
+\openout1 = `Final_Real.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -285,16 +285,16 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (12.2728pt too wide) in paragraph at lines 20--20
+Overfull \hbox (12.2728pt too wide) in paragraph at lines 19--19
  [][] 
  []
 
@@ -302,34 +302,34 @@ Overfull \hbox (12.2728pt too wide) in paragraph at lines 20--20
 
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Nonconformity-and-Self-Invention.toc
-Overfull \hbox (10.62265pt too wide) in paragraph at lines 5--5
- [] []\OT1/cmr/bx/n/12 Relating the Strengths and Weak-nesses of Non-con-for-mi
-ty and Self-Invention []  
+(./Final_Real.toc)
+\tf@toc=\write3
+\openout3 = `Final_Real.toc'.
+
+ [2]
+Overfull \hbox (1.60675pt too wide) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/12 The unique-ness of Har-vard's lib-eral arts tra-di-tion has a
+l-ways been to cul-ti-vate ``gentlemen-
  []
 
-)
-\tf@toc=\write3
-\openout3 = `Nonconformity-and-Self-Invention.toc'.
-
- [2] [1] [2] [3] [4] [5] [6] (./Nonconformity-and-Self-Invention.aux) ) 
+[1] [2] [3] [4] [5] [6] [7] [8] (./Final_Real.aux) ) 
 Here is how much of TeX's memory you used:
- 3363 strings out of 492649
- 46078 string characters out of 6129622
- 124567 words of memory out of 5000000
- 7189 multiletter control sequences out of 15000+600000
- 8096 words of font info for 31 fonts, out of 8000000 for 9000
+ 3364 strings out of 492649
+ 45851 string characters out of 6129622
+ 124589 words of memory out of 5000000
+ 7190 multiletter control sequences out of 15000+600000
+ 8443 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,32p,988b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Nonconformity-and-Self-Invention.pdf (8 pages, 67660 bytes).
+ 41i,6n,32p,1315b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Final_Real.pdf (10 pages, 74857 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

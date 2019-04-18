@@ -1,0 +1,15 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Preface}{1}
+\contentsline {section}{\numberline {2}A Time of Recruiting}{1}
+\contentsline {section}{\numberline {3}Shakespeare and the Humanities}{1}
+\contentsline {section}{\numberline {4}The Post-War Asian Culture}{2}
+\contentsline {section}{\numberline {5}College}{2}
+\contentsline {section}{\numberline {6}The Academy}{3}
+\contentsline {section}{\numberline {7}Sun Tzu: The Art of War}{4}
+\contentsline {section}{\numberline {8}Youth and Self}{4}
+\contentsline {section}{\numberline {9}Relationships}{4}
+\contentsline {section}{\numberline {10}Individualism and Self-Reliance}{4}
+\contentsline {section}{\numberline {11}Work and Family}{4}
+\contentsline {section}{\numberline {12}Romance}{4}
+\contentsline {section}{\numberline {13}Principles}{4}
+\contentsline {section}{\numberline {14}Schopenhauer}{5}
