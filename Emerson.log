@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  18 APR 2019 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  19 APR 2019 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -170,7 +170,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./Emerson.aux)
+No file Emerson.aux.
 \openout1 = `Emerson.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -185,7 +185,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
-
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
@@ -301,25 +300,25 @@ Overfull \hbox (12.2728pt too wide) in paragraph at lines 23--23
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Emerson.toc)
+No file Emerson.toc.
 \tf@toc=\write3
 \openout3 = `Emerson.toc'.
 
- [2] [1] [2] [3] [4] [5] [6] [7] (./Emerson.aux) ) 
+[2] [1] [2] [3] [4] [5] [6] [7] (./Emerson.aux) ) 
 Here is how much of TeX's memory you used:
- 3363 strings out of 492649
- 45803 string characters out of 6129622
+ 3358 strings out of 492649
+ 45740 string characters out of 6129622
  126535 words of memory out of 5000000
- 7189 multiletter control sequences out of 15000+600000
- 8096 words of font info for 31 fonts, out of 8000000 for 9000
+ 7188 multiletter control sequences out of 15000+600000
+ 7789 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,32p,1110b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Emerson.pdf (9 pages, 66906 bytes).
+</usr/local/texlive/2018/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Emerson.pdf (9 pages, 66712 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
